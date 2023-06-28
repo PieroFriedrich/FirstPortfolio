@@ -66,3 +66,48 @@ body {
     padding-left: 5vw;
 }
 
+.projects {
+    width: 80vw;
+    margin: 270px auto 0 auto;
+}
+
+.projects h2 {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.projects img {
+    width: 35vw;
+    height: auto;
+    border-radius: 30px;
+}
+
+.project {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    gap: 10vw;
+    text-align: end;
+}
+
+.project h3 {
+    padding: 0;
+    padding-bottom: 20px;
+    margin: 0;
+}
+
+.contact {
+    background-color: lightgrey;
+    margin-bottom: 0;
+    text-align: center;
+    font-weight: 700;
+}
+
+.contact h2 {
+    margin: 10px;
+}
+
+.contact p {
+    margin: 0;
+    padding-bottom: 15px;
+}
