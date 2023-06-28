@@ -32,7 +32,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
 
 .maintext p {
@@ -68,7 +67,7 @@ body {
 
 .projects {
     width: 80vw;
-    margin: 270px auto 0 auto;
+    margin: 270px auto 100px auto;
 }
 
 .projects h2 {
@@ -80,6 +79,11 @@ body {
     width: 35vw;
     height: auto;
     border-radius: 30px;
+}
+
+.projects a {
+    text-decoration: none;
+    color: black;
 }
 
 .project {
